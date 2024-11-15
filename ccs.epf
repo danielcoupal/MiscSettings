@@ -1,0 +1,12 @@
+#Fri Nov 15 13:29:38 EST 2024
+\!/=
+/instance/org.eclipse.cdt.core/doctool/workspace.default=org.eclipse.cdt.ui.doxygen
+/instance/org.eclipse.cdt.ui/formatter_profile=_CCS
+/instance/org.eclipse.cdt.ui/formattingScopeForEmptySelection=statement
+/instance/org.eclipse.cdt.ui/sourceHoverBackgroundColor=255,255,225
+/instance/org.eclipse.cdt.ui/spelling_locale_initialized=true
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<org.eclipse.ui.commands>\r\n<keyBinding contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+D"/>\r\n<keyBinding commandId\="org.eclipse.ui.project.properties" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="com.ti.ccstudio.ui.keyBindingScheme" keySequence\="ALT+CR"/>\r\n</org.eclipse.ui.commands>
+@org.eclipse.cdt.core=7.4.100.202201122357
+@org.eclipse.cdt.ui=7.3.200.202202251639
+@org.eclipse.ui.workbench=3.125.0.v20220308-0722
+file_export_version=3.0
